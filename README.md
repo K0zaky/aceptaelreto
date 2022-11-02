@@ -9,4 +9,5 @@
 <a href="https://www.aceptaelreto.com/problem/statement.php?id=427">tupadre.java -> 427</a> <br>
 <a href="https://www.aceptaelreto.com/problem/statement.php?id=434">romanceanonimo.java -> 434</a> <br>
 <a href="https://www.aceptaelreto.com/problem/statement.php?id=456">tartita.java -> 456</a> <br>
+<a href="https://www.aceptaelreto.com/problem/statement.php?id=467">taumaturgodeltormento.java -> 467</a> <br>
 <a href="https://www.aceptaelreto.com/problem/statement.php?id=621">pag.java -> 621</a> <br>
