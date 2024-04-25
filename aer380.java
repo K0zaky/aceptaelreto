@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class miboda {
+public class aer380 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         int n=0;
