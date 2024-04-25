@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class tartita {
+public class aer456 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         int n;
