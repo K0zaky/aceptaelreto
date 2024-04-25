@@ -1,14 +1,11 @@
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=116">holamundo.java -> 116</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=149">SanFermines.java -> 149</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=217">decalle.java -> 217</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=337">laauelica.java -> 337</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=362">navidad.java -> 362</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=368">CociendoHuevos.java -> 368</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=369">arena.java -> 369</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=380">miboda.java -> 380</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=427">tupadre.java -> 427</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=434">romanceanonimo.java -> 434</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=446">fakeabuela.java -> 446</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=456">tartita.java -> 456</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=467">taumaturgodeltormento.java -> 467</a> <br>
-<a href="https://www.aceptaelreto.com/problem/statement.php?id=621">pag.java -> 621</a> <br>
+<h1 align="center">
+  Scripts de <a href="https://www.aceptaelreto.com">Acepta el Reto</a>
+</h1>
+
+<h3 align="center">By: David Abellán Lerma</h3>
+
+<p align="center">DISCLAIMER: Si pillas estos scripts para referencia, al menos dame una estrellita, ¿no?</p>
+<p align="center">
+<img src="https://static.wikia.nocookie.net/yugiohenespanol/images/9/9d/Foto_los_frutos_de_los_estudios_de_kozaky.jpg/revision/latest?cb=20120527195219&path-prefix=es" alt="K0zaky"/>
+</p>
+
