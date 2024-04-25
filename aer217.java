@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class decalle {
+public class aer217 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         int num=0;
