@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class taumaturgodeltormento {
+public class aer467 {
     public static void main(String[] args) {
         Scanner r = new Scanner(System.in);
         int c=r.nextInt();
