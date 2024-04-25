@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class tupadre {
+public class aer427 {
     public static void main(String[] args) {
         Scanner r = new Scanner(System.in);
         int c=r.nextInt();
