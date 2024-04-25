@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class navidad {
+public class aer362 {
     public static void main(String[] args) {
      
         Scanner reader = new Scanner(System.in);
