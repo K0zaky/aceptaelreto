@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class holamundo {
+public class aer116 {
     public static void main(String[] args) {
 
         Scanner reader = new Scanner(System.in);
@@ -13,9 +13,9 @@ public class holamundo {
         if(n>5){
         return;
         }else{
-        for (int i=1; i<=n; i++){
-            System.out.println("Hola mundo.");
+            for (int i=1; i<=n; i++){
+                System.out.println("Hola mundo.");
+            }
         }
     }
-}
 }
